@@ -1,0 +1,20 @@
+# VSCode/PyCharm
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
